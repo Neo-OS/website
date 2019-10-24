@@ -1,0 +1,25 @@
+@charset 'utf-8';
+
+//@import 'variables';
+@import 'bulma/bulma';
+//@import 'overrides';
+//@import 'Fork-Awesome/scss/fork-awesome.scss';
+@import 'nav';
+@import 'typography';
+
+
+.mysocial.repo {
+    color: hsl(0, 0%, 100%);
+
+    &:hover {
+        color: hsl(90, 60%, 37%);
+    }
+}
+
+.card {
+    border-radius: 8px;
+}
+
+.box {
+    border-radius: 8px;
+}

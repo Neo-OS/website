@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://neo-os.com/news/archives/2019/</loc>
+    <lastmod>2019-10-20T09:12:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neo-os.com/news/archives/</loc>
+    <lastmod>2019-10-20T09:12:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neo-os.com/news/tags/development/</loc>
+    <lastmod>2019-10-20T09:12:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neo-os.com/news/</loc>
+    <lastmod>2019-10-20T09:12:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neo-os.com/news/tags/package-manager/</loc>
+    <lastmod>2019-10-20T09:12:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neo-os.com/news/post/</loc>
+    <lastmod>2019-10-20T09:12:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neo-os.com/news/tags/rust/</loc>
+    <lastmod>2019-10-20T09:12:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neo-os.com/news/tags/</loc>
+    <lastmod>2019-10-20T09:12:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neo-os.com/news/2019/why/</loc>
+    <lastmod>2019-10-20T09:12:53+01:00</lastmod>
+  </url>
+  
+</urlset>

@@ -1,0 +1,23 @@
+baseURL = "https://neo-os.com/news"
+author = "Neo OS"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+canonifyurls = true
+paginate = 5
+languageCode = "en-us"
+title = "Neo OS News"
+
+theme = "neo"
+
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[permalinks]
+    post = "/:year/:filename"
+
+[taxonomies]
+    tag = "tags"
+    archive = "archives"
+
+[outputs]
+    section = ["JSON", "HTML"]

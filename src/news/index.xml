@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neo OS News</title>
+    <link>https://neo-os.com/news/</link>
+    <description>Recent content on Neo OS News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 20 Oct 2019 09:12:53 +0100</lastBuildDate>
+    
+        <atom:link href="https://neo-os.com/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>https://neo-os.com/news/post/index.json</link>
+      <pubDate>Sun, 20 Oct 2019 09:12:53 +0100</pubDate>
+      
+      <guid>https://neo-os.com/news/post/index.json</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
